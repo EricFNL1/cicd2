@@ -15,5 +15,5 @@ def divide(a, b):
     return a / b
 
 def celsius_para_fahrenheit(celsius):
-    return (celsius * 9/5) + 32
+    return (celsius * 9/5) - 32 #erro na zoas
 
